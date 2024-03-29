@@ -1,3 +1,5 @@
+# Identify customer segments
+
 Identifying customer segments with Arvato is a key component of the Udacity Data Science Nanodegree project. AZ Direct and Arvato Financial Solutions have furnished two datasets: one containing demographic data for the German populace and another with similar information for customers of a mail-order sales firm. Our approach involves utilizing unsupervised learning methodologies on demographic and expenditure data from a sample of German households. We preprocess the data, employ dimensionality reduction techniques, and utilize clustering algorithms to partition customers, aiming to enhance customer outreach for a mail order company.
 
 We scrutinize the interrelations among demographic features, categorize the population into clusters, and assess the prevalence of customers within each segment.
